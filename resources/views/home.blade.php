@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Halaman Home</title>
+<link rel="stylesheet" href="{{ asset('style.css') }}">
 </head>
 <body>
 <h1>Selamat Datang di Halaman Home</h1>
