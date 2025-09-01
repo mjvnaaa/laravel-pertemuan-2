@@ -17,8 +17,8 @@ return view('home');
 Route::get('/mahasiswa',
 [App\Http\Controllers\MahasiswaController::class, 'index']);
 
-Route::get('/dashboard', function () {
-    return view('dashboard', [
+Route::get('/profile', function () {
+    return view('profile', [
         'nama' => 'Moh. Jevon Attaillah',
         'nim' => '362458302035',
         'kelas' => 'TRPL 2D'
