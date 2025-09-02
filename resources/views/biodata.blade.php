@@ -33,7 +33,5 @@
         <td>{{ $ttl }}</td>
     </tr>
 </table>
-
-
 </body>
 </html>

@@ -23,7 +23,5 @@
         <td>{{ $nomor }}</td>
     </tr>
 </table>
-
-
 </body>
 </html>

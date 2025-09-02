@@ -8,5 +8,5 @@
 </head>
 <body>
     <h1>Halo, {{ $nama }}</h1>
-</body>
-</html>
+    </body>
+    </html>
