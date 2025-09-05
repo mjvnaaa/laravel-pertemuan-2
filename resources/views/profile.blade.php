@@ -9,7 +9,7 @@
 <body>
     <h2>Profil Mahasiswa</h2>
     <nav>
-        <ul style="list-style: none; padding: 0; display: flex; gap: 20px;">
+        <ul style>
             <li><a href="/home">Home</a></li>
             <li><a href="/profile">Profil Mahasiswa</a></li>
             <li><a href="/kontak">Kontak</a></li>
