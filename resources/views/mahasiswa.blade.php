@@ -8,5 +8,9 @@
 </head>
 <body>
     <h1>Halo, {{ $nama }}</h1>
+
+                <footer>
+        &copy; mjvnaaa@2025
+    </footer>
     </body>
     </html>

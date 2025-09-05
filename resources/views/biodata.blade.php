@@ -33,5 +33,9 @@
         <td>{{ $ttl }}</td>
     </tr>
 </table>
+
+            <footer>
+        &copy; mjvnaaa@2025
+    </footer>
 </body>
 </html>
