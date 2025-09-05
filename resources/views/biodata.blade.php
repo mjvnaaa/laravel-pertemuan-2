@@ -16,7 +16,7 @@
             <li><a href="/biodata">Biodata</a></li>
         </ul>
     </nav>
-    <table border="0" cellpadding="5">
+    <table>
     <tr>
         <td><strong>Nama</strong></td>
         <td>:</td>
